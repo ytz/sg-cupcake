@@ -11,6 +11,8 @@ public final class R {
     public static final class attr {
     }
     public static final class dimen {
+        public static final int activity_element_4dp=0x7f040002;
+        public static final int activity_element_8dp=0x7f040003;
         /**  Default screen margins, per the Android Design guidelines. 
 
          Customize dimensions originally defined in res/values/dimens.xml (such as
@@ -19,15 +21,22 @@ public final class R {
          */
         public static final int activity_horizontal_margin=0x7f040000;
         public static final int activity_vertical_margin=0x7f040001;
+        public static final int padding_medium=0x7f040004;
     }
     public static final class drawable {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int action_settings=0x7f080000;
+        public static final int action_settings=0x7f080005;
+        public static final int list=0x7f080000;
+        public static final int list_main_tv_source=0x7f080003;
+        public static final int list_main_tv_time=0x7f080004;
+        public static final int list_main_tv_title=0x7f080002;
+        public static final int view_pager=0x7f080001;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
+        public static final int list_main=0x7f030001;
     }
     public static final class menu {
         public static final int main=0x7f070000;
